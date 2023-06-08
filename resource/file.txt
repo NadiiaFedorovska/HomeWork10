@@ -1,0 +1,4 @@
+Task 1 Validator telephone number
+987-123-4567
+123 456 7890
+(123) 456-7890
